@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abhay 
 
-<!--
-**abhaychouhan620/abhaychouhan620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Frontend+Developer;Learning+MERN+Stack;Building+Projects;Always+Learning" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about frontend development and modern web technologies. Currently learning the MERN stack and building projects to improve my skills and gain practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating clean and user-friendly web applications, exploring new technologies, and continuously learning to become a better developer.
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 🌱 Currently learning the MERN Stack
+- 💻 Interested in Frontend Development
+- 🚀 Building projects to gain hands-on experience
+
+## 🛠️ Tech Stack
+
+• C • C++ • JAVA • HTML • CSS • Bootstrap • JavaScript • Git • GitHub
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/abhay-chouhan-857335417/
